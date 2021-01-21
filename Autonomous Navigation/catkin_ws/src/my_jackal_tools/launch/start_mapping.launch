@@ -1,0 +1,9 @@
+<launch>
+
+<!---run gmapping-->
+<include file="$(find my_jackal_tools)/launch/gmapping.launch" />
+
+ <!--- Run Move Base -->
+ <include file="$(find my_jackal_tools)/launch/with_map_move_base.launch" />
+
+</launch>
