@@ -2,6 +2,9 @@
 
 This project contains the software for the autonomous robot project 
 
+Youtube video:
+https://www.youtube.com/watch?v=NPROXGNOkaQ&t=216s
+
 1) Autonomous Navigation
   - Important launch files can be found in the following directories:
     - Autonomous-Robot/Autonomous Navigation/catkin_ws/src/my_jackal_tools/ 
